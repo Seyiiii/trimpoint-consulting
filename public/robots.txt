@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap location for search engines
+Sitemap: https://www.trimpointconsulting.com.ng/sitemap.xml
